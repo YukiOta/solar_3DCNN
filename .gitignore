@@ -1,0 +1,6 @@
+# files to ignore
+.DS_Store
+.python-version
+*.pyc
+/RESULT/
+
